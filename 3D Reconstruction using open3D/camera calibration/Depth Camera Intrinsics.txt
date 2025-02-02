@@ -1,0 +1,19 @@
+Depth Camera Intrinsics:
+Width: 640
+Height: 480
+PPX: 324.2542724609375
+PPY: 243.07647705078125
+Fx: 390.0159912109375
+Fy: 390.0159912109375
+Distortion Model: distortion.brown_conrady
+Coefficients: [0.0, 0.0, 0.0, 0.0, 0.0]
+
+Color Camera Intrinsics:
+Width: 640
+Height: 480
+PPX: 329.7824401855469
+PPY: 245.9026336669922
+Fx: 385.6608581542969
+Fy: 385.2221374511719
+Distortion Model: distortion.inverse_brown_conrady
+Coefficients: [-0.05601607263088226, 0.06742575764656067, -0.0005963828298263252, 0.0009460840956307948, -0.02176169864833355]
