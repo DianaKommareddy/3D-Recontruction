@@ -16,3 +16,7 @@ This project supports the KITTI and TUM RGB-D datasets. You can download them fr
 - Implements point cloud processing with Open3D.
 - Supports depth image filtering and noise reduction.
 - Outputs reconstructed 3D meshes and point clouds.
+
+  ##Practice files
+http://localhost:8888/lab/tree/open3d_data - contains practice files on point cloud creation and using Open3D
+https://www.youtube.com/watch?v=zF3MreN1w6c&list=PLkmvobsnE0GEZugH1Di2Cr_f32qYkv7aN - refernce YT link on Open3D and Point Clouds.
